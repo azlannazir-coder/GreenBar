@@ -7,3 +7,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "GreenBar"
 include(":app")
+
